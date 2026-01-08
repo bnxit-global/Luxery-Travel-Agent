@@ -46,7 +46,7 @@ const Hero: React.FC<HeroProps> = ({
       )}
 
       {/* Dynamic Overlay */}
-      <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/20 to-luxury-black" />
+      <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/50 to-luxury-black" />
 
       <div className="relative z-10 container mx-auto px-4 text-center">
         <div className="max-w-5xl mx-auto space-y-8 animate-fade-in-up">

@@ -27,7 +27,7 @@ const Home: React.FC = () => {
       <Hero
         title="Platinum Concierge Luxury Travel Planning"
         subtitle="No Planning Fees. No call centers. Just flawless travel."
-        video="/assets/background.mp4"
+        video="/background.mp4"
         image="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop"
       />
 
